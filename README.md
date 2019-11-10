@@ -1,1 +1,1 @@
-# simpleAnimationInC
+# simpleAnimationC++
